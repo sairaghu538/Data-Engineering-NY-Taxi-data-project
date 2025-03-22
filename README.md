@@ -16,6 +16,11 @@ Store Terraform state in Google Cloud Storage.
 Deploy PostgreSQL instance using Terraform.
 Connect to the database and execute basic SQL queries.
 
+![1](https://github.com/user-attachments/assets/5f0ce45f-1e37-4870-bd8e-e5b0494a3a35)
+
+
+
+
 Module 2: Workflow Orchestration with GCP Cloud Composer
 ✅ Introduction to Data Lakes & Workflow Orchestration
 Use Cloud Storage as a Data Lake.
