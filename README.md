@@ -41,6 +41,9 @@ Store transformed data in BigQuery tables for analysis.
 Write a Cloud Function to pull data from an API and store it in Cloud Storage.
 Use Dataflow to process and move data into BigQuery.
 
+![2](https://github.com/user-attachments/assets/d81e7a35-903e-4c46-a798-e2b10049e514)
+
+
 Module 3: Data Warehousing with BigQuery
 ✅ Introduction to BigQuery & Best Practices
 Learn BigQuery SQL syntax.
@@ -49,6 +52,9 @@ Partitioning & Clustering for optimized query performance.
 Use BigQuery ML for simple predictive models.
 📌 Homework
 Optimize a BigQuery table with partitioning & clustering.
+
+![3](https://github.com/user-attachments/assets/b0662663-2ee6-4cbc-9c1f-d52e691916ce)
+
 
 Module 4: Analytics Engineering with dbt & Metabase
 ✅ Using dbt in GCP (instead of running dbt locally)
@@ -60,12 +66,20 @@ Connect Metabase to BigQuery for interactive dashboards.
 Create dbt models for transforming raw data.
 Build a dashboard in Metabase.
 
+
+![4](https://github.com/user-attachments/assets/b7c34424-3c2b-42b4-94c0-c3b3f50c9eaa)
+
+
+
 Module 5: Batch Processing with Apache Spark on GCP
 ✅ Running Apache Spark in GCP Dataproc
 Deploy a free-tier Dataproc cluster for Spark processing.
 Process large datasets using PySpark or Spark SQL.
 📌 Homework
 Run a batch transformation job using PySpark on Dataproc.
+
+![5](https://github.com/user-attachments/assets/a9da6930-f34d-47a4-b600-4d14541c1a6a)
+
 
 Module 6: Streaming Data Processing with Kafka on GCP
 ✅ Streaming with Pub/Sub & Dataflow (Replacing Kafka)
@@ -75,5 +89,6 @@ Process streaming data using Cloud Dataflow (Apache Beam).
 Publish & consume messages using Pub/Sub.
 Process real-time data streams with Cloud Dataflow.
 
+![6](https://github.com/user-attachments/assets/c27e2fa3-b5fd-4b0e-b042-7c6261a4426e)
 
 
